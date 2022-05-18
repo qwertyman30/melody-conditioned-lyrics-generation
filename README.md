@@ -2,6 +2,8 @@
 
 This repo contains the code for melody conditioned SeqGANS and melody conditioned RelGANs.
 
+This project was done under the Supervision of Dr. Yi Yu from National Institue of Informatics, Tokyo, Japan 
+
 The dataset is obtained from the work done by Yi Yu, Abhishek Srivastava, Simon Canales for the work "Conditional LSTM-GAN for Melody Generation from Lyrics"
 
 The preprocessing required for the models to work is done in the notebook "Create Dataset"
